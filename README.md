@@ -1,6 +1,3 @@
-Here's a professional and comprehensive `README.md` file for the Huffman Coding project you shared:
-
----
 
 # Huffman Coding Compression Tool
 
