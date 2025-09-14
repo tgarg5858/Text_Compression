@@ -131,6 +131,3 @@ hello world
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
----
-
-Let me know if you want me to auto-generate the `input.txt` or provide a version that handles raw binary I/O for better compression.
